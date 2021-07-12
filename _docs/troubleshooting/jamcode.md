@@ -61,7 +61,8 @@ order: 1
 
 ![030003](https://user-images.githubusercontent.com/85915538/125031285-0314c400-e0bf-11eb-904e-dd5172caaa41.png)
 
-**4. CHECK POINT & ACTION PROCESS**
+**4. CHECK POINT & ACTION PROCESS**  
+
 <!---
 * LD Buffer의 Device가 흐트러져 있다.  
   → LD XY Robot의 Teaching을 확인하세요.  
@@ -89,9 +90,8 @@ order: 1
 
 ![040003](https://user-images.githubusercontent.com/85915538/125031467-496a2300-e0bf-11eb-8ea9-66fdc9c83d8b.png)
 
-**4. CHECK POINT & ACTION PROCESS**
+**4. CHECK POINT & ACTION PROCESS**　 
 
-　 
 <!---
 　**Device가 Carrier 안에 있는 경우**
 
@@ -157,7 +157,7 @@ order: 1
 
 ![050229](https://user-images.githubusercontent.com/85915538/125031475-4c651380-e0bf-11eb-8eb2-de94bd6a1ea1.png)
 
-**4. CHECK POINT & ACTION PROCESS**
+**4. CHECK POINT & ACTION PROCESS**  
 
 <!---
 * T-Tray의 ID 설정이 잘못되었다.  
@@ -196,7 +196,7 @@ order: 1
 
 ![060300](https://user-images.githubusercontent.com/85915538/125031480-4ec76d80-e0bf-11eb-857e-c29e30a2c5c6.png)
 
-**4. CHECK POINT & ACTION PROCESS**
+**4. CHECK POINT & ACTION PROCESS**  
 
 * Head Pusher가 올라왔다.  
   → Up/Down Check Sensor를 확인하세요.
