@@ -32,7 +32,7 @@ order: 1
 * C-Tray가 Y축으로 걸쳐져 있다.  
   → Stacker의 Stopper를 조정하여 Y축을 조정하세요.
   
-  > ⛔ When adjusting the Stacker's Stopper, be careful because other Stacker and Plate will also be affected.
+> ⛔ When adjusting the Stacker's Stopper, be careful because other Stacker and Plate will also be affected.
 --->
 
 
@@ -48,5 +48,5 @@ order: 1
 * If the Y-axis alignment of C-Tray and Plate does not match.  
   → Adjust the Stacker's stopper to align the Y-axis.
   
-  > ⛔ When adjusting the Stacker's Stopper, be careful because other Stacker and Plate will also be affected.
+> ⛔ When adjusting the Stacker's Stopper, be careful because other Stacker and Plate will also be affected.
   
