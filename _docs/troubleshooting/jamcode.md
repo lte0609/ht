@@ -36,10 +36,10 @@ order: 1
 --->
 
 
-* If the C-Tray is properly seated.  
+* If the C-Tray is mounted correctly.
   → Check the Plate Up/Down Sensor.
 
-* If the C-Tray is not seated properly.  
+* If the C-Tray is not mounted correctly. 
   → Check if there is something between C-Tray and Plate.
   
 * If the X-axis alignment of C-Tray and Plate does not match.  
