@@ -142,7 +142,7 @@ order: 1
   → Check the Teaching of LD Index Robot.
 
 * If there is something in the LD Hear Pusher.  
-  → Remove any foreign substances.
+  → Remove any foreign objects.
 
 * If jams occur consecutively at the same location.  
   → Check the carrier.
@@ -199,12 +199,21 @@ order: 1
 
 **4. CHECK POINT & ACTION PROCESS**  
 
+<!---
 * Head Pusher가 올라왔다.  
   → Up/Down Check Sensor를 확인하세요.
 
 * Head Pusher가 올라오지 못했다.  
   → LD Shifter의 Teaching을 확인하세요.  
   → Head Pusher에 이물질이 있는지 확인하세요.
+--->
+
+* If the Head Pusher is up.  
+  → Check the Up/Down Check Sensor.
+
+* If the Head Pusher is not up.  
+  → Check the Teaching of LD Shifter.  
+  → Check the Head Pusher for foreign objects.
   
 
 ### 060600
