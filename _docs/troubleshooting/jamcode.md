@@ -18,7 +18,7 @@ order: 1
 
 **4. CHECK POINT & ACTION PROCESS**  
 
-\\<!--
+<!---
 
 * C-Tray가 정상적으로 안착되어있다.  
   → Plate Up/Down Sensor를 확인하세요.
@@ -33,7 +33,7 @@ order: 1
   → Stacker의 Stopper를 조정하여 Y축을 조정하세요.
   
   > ⛔ When adjusting the Stacker's Stopper, be careful because other Stacker and Plate will also be affected.
--->
+--->
 
 
 * If the C-Tray is properly seated.  
