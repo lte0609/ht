@@ -16,7 +16,20 @@ order: 1
 
 ![010203](https://user-images.githubusercontent.com/85915538/125031298-060fb480-e0bf-11eb-984c-86b0b600eef0.png)
 
-**4. CHECK POINT & ACTION PROCESS**
+**4. CHECK POINT & ACTION PROCESS**  
+<!--
+* C-Tray가 정상적으로 안착되어있다.
+  → Plate Up/Down Sensor를 확인하세요.
+
+* C-Tray가 들떠있다.
+  → C-Tray와 Plate 사이에 이물질을 확인하세요.
+
+* C-Tray가 X축으로 걸쳐져 있다. 
+  → Tray Transfer의 X축 Teaching을 확인하세요.
+
+* C-Tray가 Y축으로 걸쳐져 있다.
+  → Stacker의 Stopper를 조정하여 Y축을 조정하세요.
+-->
 
 * If the C-Tray is properly seated.  
   → Check the Plate Up/Down Sensor.
@@ -48,19 +61,17 @@ order: 1
 * LD Buffer의 Device가 흐트러져 있다.  
   → LD XY Robot의 Teaching을 확인하세요.  
   → LD Index Robot의 VSC Level을 확인하세요.
--->
 
-* If the device of LD Buffer is disturbed
-  → Check the Teaching of LD XY Robot.
-  → Check the VSC Level of the LD Index Robot.
-
-<!--
 * LD Plate의 Device가 흐트러져 있다.  
   → Tray Transfer를 확인하세요. 
 -->
 
-* If the device of the LD Plate is disturbed
-  → Check Tray Transfer.
+* If the device of LD Buffer is disturbed.  
+  → Check the Teaching of LD XY Robot.  
+  → Check the VSC Level of the LD Index Robot.
+  
+* If the device of the LD Plate is disturbed.  
+  → Check the Tray Transfer.
   
 
 ### 040003
@@ -75,7 +86,8 @@ order: 1
 
 **4. CHECK POINT & ACTION PROCESS**
 
-　  
+　 
+<!--
 　**Device가 Carrier 안에 있는 경우**
 
 * ULD Index Robot의 Teaching이 맞지 않다.  
@@ -101,6 +113,33 @@ order: 1
 
 * 동일한 위치에서 연속으로 발생하였다.  
   → Carrier 상태를 확인하세요.
+-->
+
+　**If Device exists in Carrier**
+
+* If the Teaching of ULD Index Robot is not correct.  
+  → Check the Teaching of ULD Index Robot.
+
+* If the VSC Level does not exceed the set value.  
+  → Check the Picker Pad.  
+  → Check the Air Hose.  
+  → Check if the fitting is loose.  
+  → Check the vacuum ejector.
+
+* If the Picker Cylinder of Index Robot does not come down.  
+  → Check if the length of the Air Hose is sufficient.  
+
+　  
+　**If the device does not exist in the carrier**
+
+* If the teaching of LD Index Robot is not correct.  
+  → Check the Teaching of LD Index Robot.
+
+* If there is something in the LD Hear Pusher.  
+  → Remove any foreign substances.
+
+* If jams occur consecutively at the same location.  
+  → Check the carrier.
   
 
 ### 050229
