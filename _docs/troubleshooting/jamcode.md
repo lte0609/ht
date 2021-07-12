@@ -120,7 +120,7 @@ order: 1
   → Carrier 상태를 확인하세요.
 --->
 
-　**If Device exists in Carrier**  
+　**If the device exists in the carrier**  
 
 * If the Teaching of ULD Index Robot is not correct.  
   → Check the Teaching of ULD Index Robot.
