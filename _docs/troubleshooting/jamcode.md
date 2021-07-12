@@ -62,14 +62,14 @@ order: 1
 ![030003](https://user-images.githubusercontent.com/85915538/125031285-0314c400-e0bf-11eb-904e-dd5172caaa41.png)
 
 **4. CHECK POINT & ACTION PROCESS**
-<!--
+<!---
 * LD Buffer의 Device가 흐트러져 있다.  
   → LD XY Robot의 Teaching을 확인하세요.  
   → LD Index Robot의 VSC Level을 확인하세요.
 
 * LD Plate의 Device가 흐트러져 있다.  
   → Tray Transfer를 확인하세요. 
--->
+--->
 
 * If the device of LD Buffer is disturbed.  
   → Check the Teaching of LD XY Robot.  
@@ -92,7 +92,7 @@ order: 1
 **4. CHECK POINT & ACTION PROCESS**
 
 　 
-<!--
+<!---
 　**Device가 Carrier 안에 있는 경우**
 
 * ULD Index Robot의 Teaching이 맞지 않다.  
@@ -118,9 +118,9 @@ order: 1
 
 * 동일한 위치에서 연속으로 발생하였다.  
   → Carrier 상태를 확인하세요.
--->
+--->
 
-　**If Device exists in Carrier**
+　**If Device exists in Carrier**  
 
 * If the Teaching of ULD Index Robot is not correct.  
   → Check the Teaching of ULD Index Robot.
@@ -135,7 +135,7 @@ order: 1
   → Check if the length of the Air Hose is sufficient.  
 
 　  
-　**If the device does not exist in the carrier**
+　**If the device does not exist in the carrier**  
 
 * If the teaching of LD Index Robot is not correct.  
   → Check the Teaching of LD Index Robot.
@@ -159,6 +159,7 @@ order: 1
 
 **4. CHECK POINT & ACTION PROCESS**
 
+<!---
 * T-Tray의 ID 설정이 잘못되었다.  
   → T-Tray의 ID Block을 올바르게 구성한다.  
 
@@ -170,7 +171,19 @@ order: 1
   → NX12 Module의 상태를 확인하세요.  
   
   > 💡 [How to set T-Tray ID](https://lte0609.github.io/ht/manual/tray-id/)
+--->
 
+* If the ID setting of T-Tray is wrong.  
+  → Reset the ID Block of T-Tray.  
+
+* If the ID Block of T-Tray is dirty.  
+  → Clean the ID Block of T-Tray.
+
+* If the sensing is not good.  
+  → Check the sensor.  
+  → Check the NX12 Module.  
+  
+  > 💡 [How to set T-Tray ID](https://lte0609.github.io/ht/manual/tray-id/)
   
 
 ### 060300
