@@ -133,7 +133,7 @@ order: 1
 
 * If the Picker Cylinder of Index Robot does not come down.  
   → Check if the length of the Air Hose is sufficient.  
-
+  
   
 　**If the device does not exist in the carrier**  
 
