@@ -36,10 +36,10 @@ order: 1
 --->
 
 
-* If the C-Tray is mounted correctly.
+* If the C-Tray is mounted correctly.  
   → Check the Plate Up/Down Sensor.
 
-* If the C-Tray is not mounted correctly. 
+* If the C-Tray is not mounted correctly.  
   → Check if there is something between C-Tray and Plate.
   
 * If the X-axis alignment of C-Tray and Plate does not match.  
@@ -72,11 +72,11 @@ order: 1
   → Tray Transfer를 확인하세요. 
 --->
 
-* If the device of LD Buffer is disturbed.  
+* If devices are disarrayed in LD Buffer.  
   → Check the Teaching of LD XY Robot.  
   → Check the VSC Level of the LD Index Robot.
   
-* If the device of the LD Plate is disturbed.  
+* If devices are disarrayed in LD Plate.  
   → Check the Tray Transfer.
   
 
