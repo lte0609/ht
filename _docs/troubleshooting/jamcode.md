@@ -135,6 +135,7 @@ order: 1
   → Check if the length of the Air Hose is sufficient.  
   
   
+    1
 　**If the device does not exist in the carrier**  
 
 * If the teaching of LD Index Robot is not correct.  
