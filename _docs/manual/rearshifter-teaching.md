@@ -17,4 +17,4 @@ order: 3
 
 ### **2 Step**  
 　  
-![2step](https://user-images.githubusercontent.com/85915538/125393770-1edbdb00-e3db-11eb-9835-46aaa345d52a.png)
+![2step](https://user-images.githubusercontent.com/85915538/125394742-ba218000-e3dc-11eb-9817-2a3f28ed0d0f.png)
