@@ -12,9 +12,9 @@ order: 3
 
 ### **Only 1 Step**  
 　  
-![only1step](https://user-images.githubusercontent.com/85915538/125384256-3ca14400-e3cb-11eb-88f0-740d3c8c05c2.png)
+![only1step](https://user-images.githubusercontent.com/85915538/125392869-7ed18200-e3d9-11eb-96d0-e1fe9a6ea304.png)
 
 
 ### **2 Step**  
 　  
-![2step](https://user-images.githubusercontent.com/85915538/125384264-3f039e00-e3cb-11eb-84c5-aef66fc9c16b.png)
+![2step](https://user-images.githubusercontent.com/85915538/125392875-809b4580-e3d9-11eb-96a4-880ed02b6e6c.png)
