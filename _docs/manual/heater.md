@@ -22,7 +22,7 @@ order: 4
 3) 각 부위 별 저항값을 확인한다.  
 --->
 
-1) Disconnect the heater I-plug from the terminal block.  
+1) Disconnect the heater I-lug from the terminal block.  
 2) Measure resistance with DVM.  
   2-wire type: Measure the red and white lines.  
   3-wire type: Measure the red and white lines, the red and yellow lines.  
