@@ -24,8 +24,8 @@ order: 4
 
 1) Disconnect the heater I-lug from the terminal block.  
 2) Measure resistance with DVM.  
-  2-wire type: Measure the red and white lines.  
-  3-wire type: Measure the red and white lines, the red and yellow lines.  
+　2-wire type: Measure the red and white lines.  
+　3-wire type: Measure the red and white lines, the red and yellow lines.  
 3) Check the resistance value in the table.  
 
 ![ht](https://user-images.githubusercontent.com/85915538/125592184-35433c4e-820f-4739-bbf2-3e1e7cbe5b27.png)
