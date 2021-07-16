@@ -30,4 +30,7 @@ order: 4
  
 3) Check the resistance value in the table.  
 
+
+### **Heater Resistance Table**  
+
 ![heater-table](https://user-images.githubusercontent.com/85915538/125907337-ff64a756-9577-409d-a4e9-5c27700796ac.png)
