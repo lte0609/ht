@@ -5,7 +5,7 @@ order: 4
 
 ---
 
-### **Heater position**  
+### **Heater Position**  
 　  
 ![heater-position](https://user-images.githubusercontent.com/85915538/125908907-2afee743-9dfb-4b3a-87fc-c93b3bf2f5d7.png)
 
