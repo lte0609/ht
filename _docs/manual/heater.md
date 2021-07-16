@@ -7,7 +7,7 @@ order: 4
 
 ### **Heater Position**  
 　  
-![heater-position](https://user-images.githubusercontent.com/85915538/125908907-2afee743-9dfb-4b3a-87fc-c93b3bf2f5d7.png)
+![heater-position](https://user-images.githubusercontent.com/85915538/125911677-b871bba6-3a20-43fd-b2cc-67c8eec063f7.png)
 
 
 ### **How to check the heater**  
