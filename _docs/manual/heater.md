@@ -6,12 +6,12 @@ order: 4
 ---
 
 ### **Heater position**  
-
-![heater-position](https://user-images.githubusercontent.com/85915538/125907349-bd8d37ae-894d-438c-82be-3d633010b6a9.png)
+　  
+![heater-position](https://user-images.githubusercontent.com/85915538/125908907-2afee743-9dfb-4b3a-87fc-c93b3bf2f5d7.png)
 
 
 ### **How to check the heater**  
-
+　  
 ![heater-measure](https://user-images.githubusercontent.com/85915538/125908534-ab422ced-b9a5-4d60-aeb8-c6a35054694c.png)
 
 <!---
@@ -32,5 +32,5 @@ order: 4
 
 
 ### **Heater Resistance Table**  
-
+　  
 ![heater-table](https://user-images.githubusercontent.com/85915538/125907337-ff64a756-9577-409d-a4e9-5c27700796ac.png)
