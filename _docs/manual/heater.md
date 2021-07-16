@@ -33,4 +33,4 @@ order: 4
 
 ### **Heater Resistance Table**  
 　  
-![heater-table2](https://user-images.githubusercontent.com/85915538/125910761-2a026509-c2a6-449c-aa9f-56eff95e8e87.png)
+![heater-table2](https://user-images.githubusercontent.com/85915538/125911126-782b88a9-2a23-44ad-9d19-769bb05910fd.png)
