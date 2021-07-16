@@ -12,7 +12,7 @@ order: 4
 
 ### **How to check the heater**  
 
-![heater-measure](https://user-images.githubusercontent.com/85915538/125437109-c86f9348-e574-4e7a-8731-7eb26cf8eea1.png)
+![heater-measure](https://user-images.githubusercontent.com/85915538/125908534-ab422ced-b9a5-4d60-aeb8-c6a35054694c.png)
 
 <!---
 1) Terminal Block에서 Heater의 I-lug를 분리한다.  
