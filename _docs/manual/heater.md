@@ -7,7 +7,7 @@ order: 4
 
 ### **Heater position**  
 
-![heater-position](https://user-images.githubusercontent.com/85915538/125437115-c8223079-4930-4cb5-b5dd-f576abcd9c93.png)
+![heater-position](https://user-images.githubusercontent.com/85915538/125907349-bd8d37ae-894d-438c-82be-3d633010b6a9.png)
 
 
 ### **How to check the heater**  
@@ -30,4 +30,4 @@ order: 4
  
 3) Check the resistance value in the table.  
 
-![ht](https://user-images.githubusercontent.com/85915538/125592184-35433c4e-820f-4739-bbf2-3e1e7cbe5b27.png)
+![heater-table](https://user-images.githubusercontent.com/85915538/125907337-ff64a756-9577-409d-a4e9-5c27700796ac.png)
