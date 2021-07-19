@@ -1,6 +1,6 @@
 ---
 title: Fan
-category: *
+category: *1
 order: 6
 
 ---
@@ -8,6 +8,18 @@ order: 6
 ### **Fan Position**  
 　  
 ![fan-position](https://user-images.githubusercontent.com/85915538/126117092-92a31c17-5e19-44d0-8312-896caa6e67ad.png)
+
+
+### **Fan Structure**
+
+1. P/H & D/F Lower
+
+2. P/H Upper
+
+3. T/S Upper
+
+4. T/S Lower
+
 
 
 ### **Fan Direction**  
