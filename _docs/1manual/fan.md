@@ -14,9 +14,12 @@ order: 6
 　  
 ![ph-upper-fan](https://user-images.githubusercontent.com/85915538/126118506-ec3cf692-b05b-421b-80bf-30e5dc1d6762.png)
 　  
+　  
 ![ph-lower-fan](https://user-images.githubusercontent.com/85915538/126121985-9ae3279a-fae3-4829-b36a-d26ac36dcd19.png)
 　  
+　  
 ![ts-upper-fan](https://user-images.githubusercontent.com/85915538/126118519-a89dfe8c-fb37-42a3-a9d0-f47345a94730.png)
+　  
 　  
 ![ts-lower-fan](https://user-images.githubusercontent.com/85915538/126118509-4ff8ec01-6496-4ab3-8142-c7d13abb4e1a.png)
 
