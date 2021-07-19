@@ -1,7 +1,7 @@
 ---
 title: Fan
-category: Manualy
-order: 1
+category: Manual
+order: 6
 
 ---
 
