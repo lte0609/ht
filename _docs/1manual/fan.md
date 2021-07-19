@@ -1,6 +1,6 @@
 ---
 title: Fan
-category: A
+category: Manual
 order: 1
 
 ---
