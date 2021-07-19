@@ -13,10 +13,10 @@ order: 6
 ### **Fan Structure**
 
 **P/H Upper**
-![ph-lower-fan](https://user-images.githubusercontent.com/85915538/126118499-ec0b1790-bc15-4f47-8273-5e641b995207.png)
+![ph-upper-fan](https://user-images.githubusercontent.com/85915538/126118506-ec3cf692-b05b-421b-80bf-30e5dc1d6762.png)
 
 **P/H & D/F Lower**
-![ph-upper-fan](https://user-images.githubusercontent.com/85915538/126118506-ec3cf692-b05b-421b-80bf-30e5dc1d6762.png)
+![ph-lower-fan](https://user-images.githubusercontent.com/85915538/126121985-9ae3279a-fae3-4829-b36a-d26ac36dcd19.png)
 
 **T/S Upper**
 ![ts-upper-fan](https://user-images.githubusercontent.com/85915538/126118519-a89dfe8c-fb37-42a3-a9d0-f47345a94730.png)
