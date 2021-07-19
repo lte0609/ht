@@ -1,6 +1,6 @@
 ---
 title: Fan
-category: *1
+category: A
 order: 1
 
 ---
