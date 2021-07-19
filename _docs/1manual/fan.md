@@ -1,7 +1,7 @@
 ---
 title: Fan
 category: Manual
-order: 6
+order: 5
 
 ---
 
