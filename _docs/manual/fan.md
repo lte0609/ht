@@ -1,7 +1,7 @@
 ---
 title: Fan
 category: *1
-order: 6
+order: 1
 
 ---
 
