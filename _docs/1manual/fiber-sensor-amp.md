@@ -6,8 +6,8 @@ order: 2
 ---
 
 　  
-<img src="https://user-images.githubusercontent.com/85915538/125015270-bd95ce00-e0a1-11eb-858c-5d3b1752cf00.png" alt="amp" style="zoom:80%;" />
- 
+<img src="https://user-images.githubusercontent.com/85915538/168716099-6febce09-ab76-42dc-93d7-5a8db99c7dca.png" alt="amp" style="zoom:80%;" />
+
  
 ### **Preset value**
 
